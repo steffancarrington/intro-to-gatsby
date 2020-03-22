@@ -1,0 +1,11 @@
+{
+  "normalStoreUrl": "https://steffan-carrington.mybigcommerce.com/",
+  "accessToken": "nydft2ki1ra5vtynkgk16uscsglss1v",
+  "port": 3000,
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {},
+    "product": {}
+  }
+}
